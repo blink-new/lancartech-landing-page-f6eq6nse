@@ -20,7 +20,7 @@ export default function HomePage({ onScrollToSection, onWhatsApp, onPlayStore }:
               <div className="relative">
                 <div className="w-24 h-24 bg-white/10 backdrop-blur-sm rounded-3xl flex items-center justify-center shadow-2xl animate-pulse p-2">
                   <img 
-                    src="/splash.png" 
+                    src="/logo.png" 
                     alt="Lancartech Logo" 
                     className="w-20 h-20 object-contain"
                   />
